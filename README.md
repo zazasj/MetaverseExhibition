@@ -43,11 +43,6 @@ https://zep.us/play/D6PZZE |
 ![zep5](https://github.com/zazasj/MetaverseExhibition/assets/105793155/fef62576-4f33-4101-8d23-3630b738e430)| 
 
 
-영상 기능 | 
-:--:|
-![zep5](https://github.com/zazasj/MetaverseExhibition/assets/105793155/fef62576-4f33-4101-8d23-3630b738e430)| 
-
-
 참여한 개발 인원 | 
 :--:|
 ![zep7](https://github.com/zazasj/MetaverseExhibition/assets/105793155/bd0922c6-fbec-45ab-acbf-046a1db183c8)
